@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sanjeev! 👋
 
-<!--
-**Sanjeevsetu/sanjeevsetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in technology and coding (Mainly WordPress). Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and exploring new technologies.
+- 🔭 I’m working on various exciting projects.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [sanjeevsetu@gmail.com](mailto:sanjeevsetu@gmail.com)
+- ⚡ Fun fact: I love cricket and playing chess.
+
+## 🛠️ Skills & Tools
+
+- *Languages:* PHP, JavaScript, HTML, CSS 
+- *Frameworks & Libraries:* WordPress, React, Node.js, jQuery
+- *Databases:* MySQL, PostgreSQL, MongoDB
+- *Tools & Platforms:* Git, Docker, AWS, GitHub Actions
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-423645136/)
+
+Thank you for visiting my profile!
